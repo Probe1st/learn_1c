@@ -17,4 +17,6 @@ b2a02c62-28d4-4817-b94a-556a918a9aca
 {4,"_$PerformError$_",9},
 {3,"BackgroundJob",3},
 {4,"_$InfoBase$_.DumpStart",10},
-{4,"_$InfoBase$_.DumpFinish",11}
+{4,"_$InfoBase$_.DumpFinish",11},
+{2,"Probe",2},
+{13,2,1}
